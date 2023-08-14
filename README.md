@@ -1,7 +1,7 @@
 
 👋 Hi, I’m @IamJual
                     
-🌱I’m currently learning C#
+🌱I’m currently learning C++ and more.
 
 💞️ I’m looking to collaborate on something
       
