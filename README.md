@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">A passionate learner exploring the realms of C++ and Java. When I'm not immersed in coding, <br>you'll find me indulging in the world of video games and sleeping during my free time.</p>
+<p align="left">A passionate learner exploring the realms of coding. When I'm not immersed in coding, <br>you'll find me indulging in the world of video games and sleeping during my free time.</p>
 
 ###
 
