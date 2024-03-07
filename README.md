@@ -1,5 +1,5 @@
-<h3 align="left">"Hello, World!" I'm Jual.</h3>
+<h3 align="left">"Hello, World!" I'm Jual!</h3>
 
 ###
 
-<p align="left">I enjoy exploring the realms of coding and modding. You’ll also find me in the world of video games on my free time.</p>
+<p align="left">A passionate modder and programming hobbyist with a deep love for gaming. I enjoy poking my nose around Nintendo Wii and game development. Currently, I use C++ and Java as my primary programming languages, but that might change. If I'm not programming, you'll probably find me in the wonderful worlds of video games!</p>
